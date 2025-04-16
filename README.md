@@ -1,11 +1,10 @@
 <p align="center">
-  <img alt="Logo" src="img/logo.svg" width="200px" />
+  <img alt="Logo" src="assets/logo.svg" width="200px" />
 </p>
 
 <p align="center">
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-tecnologias">Tecnologias</a>
 </p>
 
 <p align="center">
@@ -22,6 +21,18 @@
 
 O projeto é um site responsivo de lista de compras onde o usuário pode gerenciar os itens adicionando e removendo eles. 
 Esse é um dos desafio da formação Full-Stack, um dos conteúdos disponíveis para alunos da Rocketseat.
+
+Nessa aplicação trabalhamos com:
+
+  ✓ JavaScript <br>
+  ✓ Manipulação da DOM <br>
+  ✓ Funções <br>
+  ✓ Eventos 
+  
+## ⚙️ Funcionalidades
+
+- O usuário pode **adicionar** um item a lista de compras
+- O usuário pode **remover** um item da lista de compras
 
 ## 🚀 Tecnologias
 
